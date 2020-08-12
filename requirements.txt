@@ -1,0 +1,96 @@
+argschema==1.17.5
+astroid==2.2.3
+autopep8==1.4.2
+awscli==1.16.117
+boto3==1.9.107
+botocore==1.12.107
+# certifi==2018.11.29 conda distutils installs this
+cffi==1.12.2
+chardet==3.0.4
+Click==7.0
+click-default-group==1.2
+cloudpickle==0.6.1
+colorama==0.3.9
+cycler==0.10.0
+dask==1.0.0
+decorator==4.3.0
+docutils==0.14
+dominate==2.3.4
+#em_stitch install with "pip -e c:\dev\em_stitch" so we can easily switch branches
+#-e git+file:////c:/dev/em_stitch#egg=em_stitch
+Flask==1.0.2
+Flask-Bootstrap==3.3.7.1
+Flask-Cors==3.0.7
+future==0.17.1
+gevent==1.4.0
+geventhttpclient==1.3.1
+greenlet==0.4.15
+idna==2.8
+imagecodecs==2018.10.22
+isort==4.3.4
+itsdangerous==1.1.0
+Jinja2==2.10
+jmespath==0.9.3
+jsonschema==2.6.0
+kiwisolver==1.0.1
+lazy-object-proxy==1.3.1
+MarkupSafe==1.0
+marshmallow==2.18.1
+matplotlib==3.0.3
+mccabe==0.6.1
+msgpack==0.6.2
+networkx==2.2
+# CRUCIAL. Particular versions of numpy and OpenCV from https://www.lfd.uci.edu/~gohlke/pythonlibs/
+c:/temca/python_3.6_packages/numpy-1.16.2+mkl-cp36-cp36m-win_amd64.whl
+c:/temca/python_3.6_packages/opencv_python-3.4.5-cp36-cp36m-win_amd64.whl
+pillow==5.4.1
+pockets==0.7.2
+psutil==5.4.8
+ptvsd
+py-spy==0.1.10
+pyasn1==0.4.5
+pycodestyle==2.4.0
+pycparser==2.19
+pylint==2.3.1
+pymongo==3.7.2
+pyparsing==2.2.2
+pyprof2calltree==1.4.4
+PyQt5==5.12
+PyQt5-sip==4.19.14
+pyqtgraph==0.10.0
+pyserial==3.4
+#-e git+file:////c:/dev/pytemca#egg=pytemca
+python-dateutil==2.7.3
+python-dotenv==0.9.1
+pythonnet==2.3.0
+pywavelets==1.0.1
+PyYAML==5.1
+pyzmq==17.1.2
+render-python==2.2.0
+requests==2.21.0
+rsa==3.4.2
+s3transfer==0.2.0
+scandir==1.9.0
+scikit-image==0.14.2
+scikit-learn==0.20.3
+scipy==1.2.1
+simplejson==3.16.0
+six==1.11.0
+sphinxcontrib-napoleon==0.7
+#-e git+http://jayb@stash.corp.alleninstitute.org/scm/eng/temca_db.git@a00bc49442d436d4bd6a351d756a2c3759e54a7a#egg=temca_db
+#-e git+http://jayb@stash.corp.alleninstitute.org/scm/eng/temca_tao.git@d1ac3ef725cfa2ce49333b30bef6e4b43ec0f059#egg=temca_tao
+tifffile==2018.10.18
+toolz==0.9.0
+tornado==4.5.3
+triangle==20190115.1
+typed-ast==1.1.0
+urllib3==1.24
+urwid==2.0.1
+valuedispatch==0.0.1
+visitor==0.1.3
+websockets==7.0
+Werkzeug==0.14.1
+wincertstore==0.2
+wrapt==1.10.11
+zmq==0.0.0
+#-e git+http://stash.corp.alleninstitute.org/scm/eng/zro.git@1a6d4eaf7a6f76445f9bb9de71108b106786abdf#egg=zro
