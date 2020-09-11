@@ -1,6 +1,7 @@
 # TileQC
 Tile Quality Control for piTEAM
-The repository provides the python script for evaluating the EM montage quality, example dataset for running the script and example high-res images collected from production dataset.
+
+The repository provides the python script for evaluating the EM montage quality, example QC output images, example dataset for running the QC script and example high-res images collected from production dataset.
 
 ![](demo/demo.gif)
 
